@@ -2,5 +2,5 @@
 Sass, Gulp 4, Bootstrap 4 Workflow setup
 
 # Pre-requisite
--npm
--gulp
+- npm
+- gulp
