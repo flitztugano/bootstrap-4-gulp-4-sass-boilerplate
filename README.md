@@ -1,6 +1,8 @@
 # Bootstrap 4 Gulp 4 Sass Boilerplate
 
-Sass, Gulp 4, Bootstrap 4 Workflow setup
+Sass, Gulp 4, Bootstrap 4 Workflow setup.
+A front-end workflow environment or boilerplate.. whatever you want to call it. Using gulp 4, bootstrap 4.3.1, sass via npm. It automatically compiles bootstrap node_modules files into your dist folder.
+Fork, star or use it in your project.
 
 ## Pre-requisite
 
