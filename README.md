@@ -1,4 +1,4 @@
-# bootstrap-4-gulp-4-sass-boilerplate
+# Bootstrap 4 Gulp 4 Sass Boilerplate
 
 Sass, Gulp 4, Bootstrap 4 Workflow setup
 
